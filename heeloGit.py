@@ -1,1 +1,1 @@
-print("New Hello GITHUB modificación v1.0.2 para  sincronia")
+print("New Hello GITHUB modificación v1.0.2 para  sincronia con git push")
